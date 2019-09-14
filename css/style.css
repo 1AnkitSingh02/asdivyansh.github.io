@@ -135,14 +135,11 @@ p3 {
 
 }
 
-.contact-message {
-  width: 40%;
-  margin: 40px auto 60px;
-}
+
 
 .bottom-container {
   background-color: #49beb7;
-  padding: 40px 0 30px;
+  padding: 10px 0 10px;
 }
 
 a {
@@ -150,8 +147,4 @@ a {
   font-family: 'Montserrat', sans-serif;
   margin: 10px 25px;
   text-decoration: none;
-
-}
-a:hover{
-  color: #454d66;
 }
